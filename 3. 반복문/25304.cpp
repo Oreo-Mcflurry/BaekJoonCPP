@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// ㅎㅎ
 void isEqual(int a, int b){
     if(a==b){
         cout << "Yes";
