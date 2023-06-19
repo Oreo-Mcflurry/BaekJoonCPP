@@ -4,7 +4,7 @@
         "iosfwd": "cpp",
         "string": "cpp",
         "ostream": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "__locale": "cpp"
     },
-    "C_Cpp.errorSquiggles": "disabled"
 }
