@@ -11,10 +11,10 @@ int main() {
             int temp;
             cin >> temp;
 
-            if(temp>max){
+            if(temp>=max){
                 max = temp;
-                x = i;
-                y = j;
+                x = i+1;
+                y = j+1;
             }
         }
     }
